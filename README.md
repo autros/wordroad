@@ -1,14 +1,15 @@
-# wordroad
+# PRIVACY POLICY
+
 
 
 
 This Privacy Notice explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. The Services are also governed by the Terms of Service.
 
-We are Lydia Games, maker of Magic Words. For details about how to contact us, see the "How To Contact Us" section below.
+We are Autros INC, maker of Word Road. For details about how to contact us, see the "How To Contact Us" section below.
 
 This Privacy Notice applies to personal information that we collect through our games, mobile applications and other products.
 
-1. WHAT PERSONAL INFORMATION DOES LYDIA GAMES COLLECT?
+# 1. WHAT PERSONAL INFORMATION DOES Autros INC COLLECT?
 The personal information we may collect about you through the Services falls into the following general categories:
 
 1.1. Information that you provide voluntarily
