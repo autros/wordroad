@@ -9,7 +9,7 @@ We are Autros INC, maker of Word Road. For details about how to contact us, see 
 
 This Privacy Notice applies to personal information that we collect through our games, mobile applications and other products.
 
-# 1. WHAT PERSONAL INFORMATION DOES Autros INC COLLECT?
+1. WHAT PERSONAL INFORMATION DOES Autros INC COLLECT?
 The personal information we may collect about you through the Services falls into the following general categories:
 
 1.1. Information that you provide voluntarily
